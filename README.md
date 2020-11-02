@@ -16,17 +16,17 @@ Participants work in teams to define and complete a project aimed at gaining ins
 **Module 1** - Introduction to R and SQL
 
 **Module 2** <br>
-October 14 - Introduction, Database Management and Project Scoping 
-October 15 - Dataset Exploration 
-October 16 - Applications of Dataset Exploration
-October 19 - Basics of Data Visualization 
-October 20 - Applications of Data Visualization
-October 22 - Text Analysis 
-October 23 - Interim Presentations
+October 14 - Introduction, Database Management and Project Scoping <br>
+October 15 - Dataset Exploration <br>
+October 16 - Applications of Dataset Exploration <br>
+October 19 - Basics of Data Visualization <br>
+October 20 - Applications of Data Visualization <br>
+October 22 - Text Analysis <br>
+October 23 - Interim Presentations <br>
 
 **Module 3** <br>
-November 16 - Privacy, Confidentiality, and Ethics 
-November 17 - Machine Learning 
-November 19 - Inference 
-November 20 - Pulling it all Together
-November 30 - Interim Presentations
+November 16 - Privacy, Confidentiality, and Ethics <br>
+November 17 - Machine Learning <br>
+November 19 - Inference <br>
+November 20 - Pulling it all Together <br>
+November 30 - Interim Presentations <br>
